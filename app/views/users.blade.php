@@ -11,7 +11,7 @@
 
 
 @section('content')
-	<form method='POST'>
+	{{ Form::open(array("url" => "/users", "method" => "POST")) }}
 		<div class="form-group">
 			<label for="users"> How many users? (Max: 9)</label> 
 			<input type="number" name="users" id="users"  min="1" max="9" value="1">
@@ -22,20 +22,19 @@
 			
 			<div class="checkbox">
 				<label for="address"> 
-					<input name="address" type="checkbox">
-					Address
+				<input name="address" type="checkbox">
+				Address
 				</label> 
 			</div>
 
 			<div class="checkbox">
 				<label for="email"> 
-					<input name="email" type="checkbox">
-					Email
+				<input name="email" type="checkbox">
+				Email
 				</label>
 			</div>
 		</div>
 
 		<input type="submit" class="btn btn-primary" value="Submit">
-	</form>
+	{{ Form::close()}}
 @stop
-
