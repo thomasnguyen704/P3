@@ -1,19 +1,20 @@
-<h2>Developer's Best Friend/h2>
+<h2>Developer's Best Friend</h2>
 
 <h3>Live URL</h3>
-< http://p3.thomasnguyen.me >
+<a href="http://p3.thomasnguyen.me/">http://p3.thomasnguyen.me/</a>
 
 ## Description
 <h2>P3: Laravel Basics</h2>
 
 <p>The goal of this project is to give you hands-on practice with working with the essentials of building a Laravel-based site. In building this project you'll demonstrate an understanding of the following skills:<br />
 <ul>
-<li>Creating a new Laravel app.</li>
-<li>Installing and using Composer packages.</li>
-<li>Routing basics.</li>
-<li>Views.</li>
-<li>Deploying a Laravel app on a live server.</li>
-</ul></p>
+	<li>Creating a new Laravel app.</li>
+	<li>Installing and using Composer packages.</li>
+	<li>Routing basics.</li>
+	<li>Views.</li>
+	<li>Deploying a Laravel app on a live server.</li>
+</ul>
+</p>
 
 <br>
 
@@ -32,7 +33,7 @@
 <p>These packages are just suggestions; you're welcome to use others or write your own functionality.</p>
 
 ## Demo
-I'll be attending my Wednesday section with Jeremmy to do an in-person demo.
+I'll be attending my Wednesday section with Jeremy to do an in-person demo.
 
 ## Details for teaching team
 No login required.
@@ -41,6 +42,4 @@ No login required.
 ## Outside code
 * Lorem Ipsum Text: <a href="https://packagist.org/packages/badcow/lorem-ipsum">badcow/lorem-ipsum</a>
 * Random Users: <a href="https://packagist.org/packages/fzaninotto/faker">fzaninotto/faker</a>
-* Word list: http://www.paulnoll.com/Books/Clear-English/
 * Bootstrap: http://getbootstrap.com/
-* Bootstrap Theme: http://bootswatch.com/flatly/
