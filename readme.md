@@ -1,10 +1,8 @@
-<h2>Developer's Best Friend</h2>
+##Developer's Best Friend
+<p><a href="http://p3.thomasnguyen.me/">http://p3.thomasnguyen.me/</a></p>
 
-<h3>Live URL</h3>
-<a href="http://p3.thomasnguyen.me/">http://p3.thomasnguyen.me/</a>
 
-## Description
-<h2>P3: Laravel Basics</h2>
+## Description P3: Laravel Basics
 
 <p>The goal of this project is to give you hands-on practice with working with the essentials of building a Laravel-based site. In building this project you'll demonstrate an understanding of the following skills:<br />
 <ul>
@@ -32,8 +30,10 @@
 
 <p>These packages are just suggestions; you're welcome to use others or write your own functionality.</p>
 
+
 ## Demo
 I'll be attending my Wednesday section with Jeremy to do an in-person demo.
+
 
 ## Details for teaching team
 No login required.
